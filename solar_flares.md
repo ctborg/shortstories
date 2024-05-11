@@ -15,3 +15,5 @@ Amidst the marvel, Elena’s camera choked, refusing to capture the spectacle. I
 As the aurora grew wilder, the crowd's awe was tinged with a primal fear. The lights throbbed with an eerie intelligence, as if the universe was not merely putting on a show but sending a message, a cryptic sermon preached from the pulpit of the unknown.
 
 When the lights finally dimmed, and the sky returned to its regular programming, the villagers retreated, whispers of the night's madness echoing behind them. Elena, once her rebellious camera revived, scrolled through her captures. Amongst the cosmic chaos, one photo froze her heart—a spectral face formed in the aurora, staring down with an inscrutable gaze, a reminder that the night’s insanity might just have been a peek behind the celestial curtain, a glimpse of the wild, untamed universe watching right back at them.
+
+[Back to main](https://github.com/ctborg/shortstories)
